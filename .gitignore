@@ -1,0 +1,100 @@
+# =========================
+# Build folders
+# =========================
+bin/
+obj/
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# JetBrains Rider / ReSharper
+# =========================
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+*.snupkg
+packages/
+
+# =========================
+# Publish output
+# =========================
+publish/
+out/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Test results
+# =========================
+TestResults/
+
+# =========================
+# ASP.NET / IIS
+# =========================
+Temporary ASP.NET Files/
+IISExpress/
+
+# =========================
+# Code generation
+# =========================
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# =========================
+# Profiling tools
+# =========================
+*.dotCover
+*.dotTrace
+*.dotMemory
+
+# =========================
+# Code analysis
+# =========================
+StyleCopReport.xml
+*.CodeAnalysisLog.xml
+
+# =========================
+# Debug files
+# =========================
+*.pdb
+
+# =========================
+# Backup files
+# =========================
+*.bak
+*.backup
+
+# =========================
+# Source control leftovers
+# =========================
+*.vspscc
+*.vssscc
+*.scc
+*.cache
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
